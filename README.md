@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Keyur Shelke</h1>
+<h1 align="center">👋 Hi, I'm Keyur Shelke</h1>
 <h3 align="center">Software developer enthusiast💻</h3>
 
 - 🔭 I’m currently working on **StudyNotion - An ed-tech platform**
